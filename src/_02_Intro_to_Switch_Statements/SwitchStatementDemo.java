@@ -46,6 +46,6 @@ public class SwitchStatementDemo {
 		// This only works when comparing one variable. 
 		// That variable cannot be a floating point value.
 		// Using objects with switch statements is very limited.
-		// It works with Strings and Enums.
+		// It works with Strings and Enemas.
 	}
 }
